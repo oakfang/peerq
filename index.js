@@ -60,7 +60,7 @@ class PeerQueue extends EventEmitter {
   }
 
   get size() {
-    return this._coven.peers.size;
+    return this._coven.size;
   }
 
   _setupQueue() {

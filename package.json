@@ -1,13 +1,13 @@
 {
   "name": "peerq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A p2p queue using a coven broker",
   "main": "index.js",
   "repository": "git@github.com:oakfang/peerq.git",
   "author": "Alon Niv <alon.n@seebo.com>",
   "license": "MIT",
   "dependencies": {
-    "coven": "^0.3.2",
+    "coven": "^0.3.3",
     "most": "^1.7.3",
     "msgpack-lite": "^0.1.26",
     "uuid": "^3.2.1",
